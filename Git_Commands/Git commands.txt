@@ -1,5 +1,5 @@
 Git commands
-
+git remote rm origin
 git config user.name
 git config user.email
 
